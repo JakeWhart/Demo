@@ -1,3 +1,3 @@
-e# Demo
-This is my first git repository 
+# Demo
+This is my first git repository <br>
 Author-JakeWhart
